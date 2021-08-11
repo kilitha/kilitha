@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kilitha
+- 👀 I’m interested in QA & Project Management
+- 🌱 I’m currently learning Automation
+- 💞️ I’m looking to collaborate on Automation Devs
